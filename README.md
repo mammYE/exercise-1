@@ -1,2 +1,2 @@
 # exercise-1
-Exercise solved in week 3
+This repository contains my solution to the Week 3 exercise
